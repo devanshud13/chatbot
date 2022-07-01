@@ -41,8 +41,8 @@ Mike predicts 9 user intents, makes recommendations for about 200 IMDb 7+ rated 
 
 
 ## Model Training
-The model training part of the projects is in the [moviebot-mike-training](https://github.com/abhijitpai000/moviebot-mike-training) repository.
+The model training part of the projects is in the [moviebot-mike-training](https://github.com/devanshud13/chatbot) repository.
 
 ## Setup Instructions
 
-This repo is currently in a development state, I'm working on setting up an easy method to run this application on local machines, will update this section soon. In the meantime check out the [moviebot-mike-training](https://github.com/abhijitpai000/moviebot-mike-training) repository.
+This repo is currently in a development state, I'm working on setting up an easy method to run this application on local machines, will update this section soon. In the meantime check out the [moviebot-mike-training](https://github.com/devanshud13/chatbot) repository.
